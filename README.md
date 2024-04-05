@@ -1,16 +1,5 @@
-# newsapp
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+{:format :pointed-dict, :data [{#uuid "d79a2b3c-87ee-408c-aee3-2642de3759c9" {:entity-type :block, :coords {:y-start 0.2269671557552243, :x-start 0.01150105164834436, :x-end 0.20307464545563564, :y-end 0.951907212760157}, :original-aspect-ratio? false, :media-asset-ids #{#uuid "c4ee5d01-2c02-40be-9fb5-cc2614e4a31b"}, :image-aspect-ratio 0.4612676056338028, :image-position {:x 50, :y 70.58823529411754}, :url "https://pitch-assets-ccb95893-de3f-4266-973c-20049231b248.s3.eu-west-1.amazonaws.com/c4ee5d01-2c02-40be-9fb5-cc2614e4a31b?pitch-bytes=1302195&pitch-content-type=image%2Fpng", :block-type :image, :image-scale-x 1, :locked-aspect-ratio? false, :created-at 1712325627701}} [#uuid "d79a2b3c-87ee-408c-aee3-2642de3759c9"]]}
+{:format :pointed-dict, :data [{#uuid "2f9f444d-e087-4e24-a17e-a0d7c2e733a1" {:entity-type :block, :coords {:y-start 0.22773584897674767, :x-start 0.20297117743450788, :x-end 0.39565985667979114, :y-end 0.9530328440850637}, :original-aspect-ratio? false, :media-asset-ids #{#uuid "5eb516c3-6b03-4187-a7cf-c602dbe86da0"}, :image-aspect-ratio 0.4612676056338028, :image-position {:x 50, :y 55.38461538461539}, :url "https://pitch-assets-ccb95893-de3f-4266-973c-20049231b248.s3.eu-west-1.amazonaws.com/5eb516c3-6b03-4187-a7cf-c602dbe86da0?pitch-bytes=1487375&pitch-content-type=image%2Fpng", :block-type :image, :image-scale-x 1, :locked-aspect-ratio? false, :created-at 1712325688924}} [#uuid "2f9f444d-e087-4e24-a17e-a0d7c2e733a1"]]}
+{:format :pointed-dict, :data [{#uuid "6c26461d-49d7-4d51-9a41-3ec36aead70f" {:entity-type :block, :coords {:y-start 0.22749126476989934, :x-start 0.3959939761766461, :x-end 0.5830222780634386, :y-end 0.949014674972555}, :original-aspect-ratio? false, :media-asset-ids #{#uuid "3c09fd90-4611-4057-b2e0-f9a8514636ae"}, :image-aspect-ratio 0.4612676056338028, :image-position {:x 0, :y 0}, :url "https://pitch-assets-ccb95893-de3f-4266-973c-20049231b248.s3.eu-west-1.amazonaws.com/3c09fd90-4611-4057-b2e0-f9a8514636ae?pitch-bytes=1492673&pitch-content-type=image%2Fpng", :block-type :image, :image-scale-x 1.000964276622323, :locked-aspect-ratio? false, :created-at 1712325644718}} [#uuid "6c26461d-49d7-4d51-9a41-3ec36aead70f"]]}
+{:format :pointed-dict, :data [{#uuid "60ec5ad0-ef7c-4a01-b794-fd72cde76c66" {:entity-type :block, :coords {:y-start 0.22724668056305097, :x-start 0.5826488503904828, :x-end 0.784535642843313, :y-end 0.9865059398223104}, :original-aspect-ratio? false, :media-asset-ids #{#uuid "e44d5e34-9fc2-4657-a33a-9dc252888ec2"}, :image-aspect-ratio 0.4612676056338028, :image-position {:x 50, :y 55.38461538461539}, :url "https://pitch-assets-ccb95893-de3f-4266-973c-20049231b248.s3.eu-west-1.amazonaws.com/e44d5e34-9fc2-4657-a33a-9dc252888ec2?pitch-bytes=485936&pitch-content-type=image%2Fpng", :block-type :image, :image-scale-x 1, :locked-aspect-ratio? false, :created-at 1712325654153}} [#uuid "60ec5ad0-ef7c-4a01-b794-fd72cde76c66"]]}
+{:format :pointed-dict, :data [{#uuid "3fcbd0d7-60eb-4c0e-a854-468c01d0a3e8" {:entity-type :block, :coords {:y-start 0.22546470991315581, :x-start 0.7847125296357657, :x-end 0.986599322088596, :y-end 0.9847239691724152}, :original-aspect-ratio? false, :media-asset-ids #{#uuid "bb3caaa5-b709-40fd-9738-08ebc156f20a"}, :image-aspect-ratio 0.4612676056338028, :image-position {:x 50, :y 55.38461538461539}, :url "https://pitch-assets-ccb95893-de3f-4266-973c-20049231b248.s3.eu-west-1.amazonaws.com/bb3caaa5-b709-40fd-9738-08ebc156f20a?pitch-bytes=89318&pitch-content-type=image%2Fpng", :block-type :image, :image-scale-x 1, :locked-aspect-ratio? false, :created-at 1712325659742}} [#uuid "3fcbd0d7-60eb-4c0e-a854-468c01d0a3e8"]]}
